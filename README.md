@@ -30,7 +30,7 @@ class AboutMe:
     def motto(self):
         return "Build AI systems for production"
 ```
-### 📌🤖 Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
+### 🤖 Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
 ```
 A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
 ```
