@@ -20,7 +20,7 @@ Over the span, I furiously contributed in shipping AI products using agent-based
 
 
 ```python
-class Esha:
+class AboutMe:
     def __init__(self):
         self.role = "Applied AI Engineer"
         self.pronouns = ["she", "her"]
