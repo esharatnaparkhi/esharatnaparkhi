@@ -1,10 +1,10 @@
-## 👋 Hey, I'm Esha 
+# 👋 Hey, I'm Esha 
 
-# Applied AI Engineer | LLM Systems Builder | Backend Architect
+## Applied AI Engineer | LLM Systems Builder | Backend Architect
 
-I build production-grade AI systems; not just experiments.  
+<p><b><span style="color:#FF4F8B">I build production-grade AI systems — not experiments.</span></b></p>  
 
-Deep focus on building scalable backend architectures, agentic workflows, and cost-efficient LLM infrastructure; designed to operate reliably in real-world environments.
+> Deep focus on building **scalable backend architectures, agentic workflows**, and **cost-efficient LLM infrastructure**; designed to operate reliably in real-world environments.
 
 Currently working as an AI Intern, with 1+ year of startup experience across 3 AI-driven companies.
 Over the span, I furiously contributed in shipping AI products using agent-based architectures, RAG systems, TTS/STT pipelines, and multi-agent orchestration frameworks; (from powering web platforms and mobile apps to building AI-driven plugins and full-stack systems)
@@ -28,7 +28,7 @@ class Esha:
     def motto(self):
         return "Build AI systems for production"
 ```
-# Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
+## Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
 A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
 
 
