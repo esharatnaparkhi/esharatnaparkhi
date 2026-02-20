@@ -1,4 +1,12 @@
-## 👋 Hey, I'm Esha  
+## 👋 Hey, I'm Esha 
+#Applied AI Engineer | LLM Systems Builder | Backend Architect
+
+I build production-grade AI systems; not just experiments.  
+
+Deep focus on building scalable backend architectures, agentic workflows, and cost-efficient LLM infrastructure; designed to operate reliably in real-world environments.
+
+Currently working as an AI Intern, with 1+ year of startup experience across 3 AI-driven companies.
+Over the span, I furiously contributed in shipping AI products using agent-based architectures, RAG systems, TTS/STT pipelines, and multi-agent orchestration frameworks; (from powering web platforms and mobile apps to building AI-driven plugins and full-stack systems)
 
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -14,11 +22,12 @@ class Esha:
         self.role = "Applied AI Engineer"
         self.pronouns = ["she", "her"]
         self.traits = "Confident. Decisive. Self-driven. High-ownership. Lead-from-the-front energy."
-        self.interests = ["Agentic AI", "RAG Systems", "LLM Orchestration", "Backend Architecture"]
+        self.wins = "AI Hackathons winner. Audience Choice Awards. National Level Hackathon Qualifier"
 
     def motto(self):
-        return "Build AI systems for production, not just demos."
+        return "Build AI systems for production"
 ```
-## Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
-- A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
+# Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
+A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
+
 
