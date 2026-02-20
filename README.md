@@ -37,7 +37,7 @@ A Python SDK that exposes token usage, cost, and latency across LLM workflows, i
 
 ---
 
-## 📝 Here's a note!
+### ✏️ Here's a note!
 
 *Interested in AI systems that actually scale?*
 *Let’s talk.*
