@@ -1,7 +1,6 @@
 # 🐙 Hola Amigos, I'm Esha!
-
 ### Applied AI Engineer  •  LLM Systems Builder  •  Backend Architect
-
+---
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -31,13 +30,11 @@ class AboutMe:
         return "Build AI systems for production"
 ```
 ### 🤖 Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
-```
-A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
-```
+> A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
 
 ---
 
-### ✏️ Here's a note!
+#### ✏️ Here's a note!
 
 *Interested in AI systems that actually scale?*
 *Let’s talk.*
