@@ -9,7 +9,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-🔥 I build **production-grade AI systems**; not experiments. 
+I build **production-grade AI systems**; not experiments. 
 
 Deep focus on building **scalable backend architectures, agentic workflows**, and **cost-efficient LLM infrastructure**; designed to operate reliably in real-world environments.
 
@@ -29,12 +29,12 @@ class AboutMe:
     def motto(self):
         return "Build AI systems for production"
 ```
-### 🤖 Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
+### Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
 > A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
 
 ---
 
-#### ✏️ Here's a note!
+#### Here's a note!
 
 *Interested in AI systems that actually scale?*
 *Let’s talk.*
