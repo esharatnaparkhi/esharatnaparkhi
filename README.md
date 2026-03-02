@@ -9,7 +9,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-> I build **production-grade AI systems**; not experiments. 
+🔥 I build **production-grade AI systems**; not experiments. 
 
 Deep focus on building **scalable backend architectures, agentic workflows**, and **cost-efficient LLM infrastructure**; designed to operate reliably in real-world environments.
 
