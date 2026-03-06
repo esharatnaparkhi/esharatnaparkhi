@@ -9,10 +9,10 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-Wanna know about me and my work? 
-```
-https://portfolio-eight-lilac-io1c67qh9l.vercel.app
-```
+ 
+> Have a look at my site : https://portfolio-eight-lilac-io1c67qh9l.vercel.app
+
+
 🔥 I build **production-grade AI systems**; not experiments. 
 
 Deep focus on building **scalable backend architectures, agentic workflows**, and **cost-efficient LLM infrastructure**; designed to operate reliably in real-world environments.
