@@ -1,4 +1,4 @@
-# 🐙 Hola Amigos, I'm Esha!
+# Hola Amigos, I'm Esha!
 ### Applied AI Engineer  •  LLM Systems Builder  •  Backend Architect
 ---
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@
 
 Deep focus on building **scalable backend architectures, agentic workflows**, and **cost-efficient LLM infrastructure**; designed to operate reliably in real-world environments.
 
-> Currently working as an *AI Intern*, with *1+ year of startup experience* across 3 AI-driven companies.
+> Having *1+ year of startup experience* across 3 AI-driven companies.
 Over the span, I furiously contributed in shipping AI products using agent-based architectures, RAG systems, TTS/STT pipelines, and multi-agent orchestration frameworks;
 > (from powering web platforms and mobile apps to building AI-driven plugins and full-stack systems)
 
@@ -29,8 +29,8 @@ class AboutMe:
     def motto(self):
         return "Build AI systems for production"
 ```
-### Currently building AI Operations Optimizer (because AI shouldn’t be a black box)
-> A Python SDK that exposes token usage, cost, and latency across LLM workflows, identifies bottlenecks in pipelines, and suggests or generates code improvements to optimize performance before scaling breaks it.
+### Currently building CreatorAI (because creators deserves an AI growth team.)
+> A platform powered by a custom RAG-based agentic architecture that connects creator social accounts, learns from their past content, generates platform-aware posts, schedules and publishes them reliably, and surfaces performance insights, all inside a production-grade, multi-tenant system built for modern creators.
 
 ---
 
