@@ -1,13 +1,6 @@
 # Hola Amigos, I'm Esha!
 ### Applied AI Engineer  •  LLM Systems Builder  •  Backend Architect
 ---
-![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/qdrant-FF4F8B?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
  
 > Have a look at my site : https://portfolio-eight-lilac-io1c67qh9l.vercel.app
